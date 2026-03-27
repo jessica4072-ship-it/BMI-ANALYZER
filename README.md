@@ -24,3 +24,6 @@ using file : Python main.py
 ## Future Scope
 - It will add better interface
   It will also add more health parameters
+  
+## Output
+![Output](output.png)
